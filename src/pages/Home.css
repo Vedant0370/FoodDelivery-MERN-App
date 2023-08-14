@@ -1,0 +1,13 @@
+
+.heading{
+
+    color: rgb(164, 9, 231);
+    font-size: 30px;
+    font-family: "poppins", sans-serif;
+}
+.main-div{
+
+    border: 2px solid red;
+    margin-top: 10px;
+    background-color: bisque;
+}

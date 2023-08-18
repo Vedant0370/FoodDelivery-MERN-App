@@ -67,7 +67,7 @@ newData.map((cval) => {
       <h1>ID :{cval.id}</h1>
       <h1>Price : {cval.totalPrice}</h1>
       <h1>Order On :{cval.ordered_on}</h1>
-      <h1>Address : {cval.deliveryAddress}</h1>
+      <h1>Address :{cval.deliveryAddress}</h1>
   
   </>)
 })
